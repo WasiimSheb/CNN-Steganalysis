@@ -68,4 +68,15 @@ Labels: One-hot encoded [cover, stego]
 
 ## Performance
 
-Tested on BOSSbase dataset with WOW steganographic algorithm. Results depend on dataset quality and steganographic method sophistication. 
+Tested on BOSSbase dataset with WOW steganographic algorithm. Results depend on dataset quality and steganographic method sophistication.
+
+## Credits
+
+This implementation is based on the research paper:
+
+**"A convolutional neural network to detect possible hidden data in spatial domain images"**  
+Authors: Jean De La Croix Ntivuguruzwa¹'², Tohari Ahmad¹*  
+¹ Institut Teknologi Sepuluh Nopember, Indonesia  
+² University of Rwanda, Rwanda
+
+This repository contains our implementation of the SpatialStegoDetect architecture described in their work. 
